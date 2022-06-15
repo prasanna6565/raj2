@@ -6,9 +6,9 @@ package raj;
  */
 public class App 
 {
-    public static void main( String[] args )
-        public static void main( String[] args )
+         public static void main( String[] args )
     {
         System.out.println( "Hello World demo!" );
+             System.out.println( "Hello World demo!" );
     }
 }
